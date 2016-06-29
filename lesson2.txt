@@ -1,1 +1,6 @@
 git add
+
+Now I learnt how to commit.
+
+Git status shows whast files are modified.
+Then u have to add to staging area. Then run commit.
