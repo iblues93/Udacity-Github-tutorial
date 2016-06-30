@@ -15,3 +15,9 @@ git checkout branchname
 
 
 Draw branch diagram to enable you to visually see which commits are reachable, and which branches exist at which point.
+
+Merging two branches, to save all changes made by everyone into a file.
+
+git merge (branch) : this merge the branch into the current branch checked out.
+
+git merge b1 b2 : merge current branch with b1 and b2
