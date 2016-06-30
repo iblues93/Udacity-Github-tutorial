@@ -12,3 +12,6 @@ git branch name
 check it out to change branch.
 
 git checkout branchname
+
+
+Draw branch diagram to enable you to visually see which commits are reachable, and which branches exist at which point.
