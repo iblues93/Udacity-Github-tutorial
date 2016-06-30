@@ -21,3 +21,7 @@ Merging two branches, to save all changes made by everyone into a file.
 git merge (branch) : this merge the branch into the current branch checked out.
 
 git merge b1 b2 : merge current branch with b1 and b2
+
+Automatic merging, software merges the changes with reference to one another and the point of origin. 
+
+Manual conflict resolving allows professionals to manually examine more carefully to prevent errors made by the software. Its less taxing on the software.
