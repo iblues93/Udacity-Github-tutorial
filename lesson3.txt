@@ -7,3 +7,11 @@ No internet connection available, no need to constantly updating the online repo
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 This is because the may be crucial and sensitive changes made locally which you do not want to come into contact with the remote yet. This manual pulling gives the user the flexibility to work efficiently and at ease.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Use branches for making differences such as new feature, and editions
+
+Use fork to clone another repository which does not belong to you into another repository for yourself. 
+
+Use clone to bring in the repository into local machine.
