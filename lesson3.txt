@@ -1,1 +1,5 @@
 Time for lesson 3!
+
+When would you want to use a remote repository rather than keeping all your work local?
+
+No internet connection available, no need to constantly updating the online repository. Otherwise constantly updating every changes for every pull and push request by every user.
